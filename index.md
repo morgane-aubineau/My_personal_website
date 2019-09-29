@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University.
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: M. Aubineau's academic website
+description: Morgane Aubineau is a PhD in neurodevelopmental psychopathology. She's an avid learner, passionate about brain research.
+keywords: Brain, Intellectual Giftedness, Autism Spectrum Conditions, Polymathy
 ---
 
 I am Morgane Aubineau, PhD in neurodevelopmental psychopathology. Welcome on my personal academic website.
