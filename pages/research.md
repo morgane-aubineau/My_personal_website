@@ -13,8 +13,7 @@ with special education needs in regular schools. However, little is known about 
 different aspects of inclusion. For these students, whose inherent difficulties lie in social interaction and communication, taking into account social
 challenges of mainstreaming experience is essential.*
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
-
+[click here to read the article]({{ BASE_PATH}}/pages/working_papers/Aubineau_NEA_2018.pdf)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
