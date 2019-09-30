@@ -5,22 +5,23 @@ description: Morgane Aubineau is a PhD in neurodevelopmental psychopathology. Sh
 keywords: Brain, Intellectual Giftedness, Autism Spectrum Conditions, Polymathy
 ---
 
-I am Morgane Aubineau, PhD in neurodevelopmental psychopathology. Welcome on my personal academic website.
-In this website, I provide information about my current work on both the neural architecture of high cognitive ability (g) individuals and autism spectrum conditions. There is also a link to visit the website of the Pearl (currently under construction).
+<p>Presentation</p>
+<p>I am Morgane Aubineau, PhD in neurodevelopmental psychopathology. Welcome on my personal academic website.
+In this website, I provide information about my current work on both the neural architecture of high cognitive ability *(g)* individuals and autism spectrum conditions. There is also a link to visit the website of the Pearl (currently under construction).</p>
 
-[Curriculum vitae ![CV as pdf (English version)]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[Read my curriculum vitae ![CV as pdf (English version)]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
 
 ---
 
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact:"></a>To contact me:</h4>
 
     <div class="row-fluid">
         <div class="span5">
             Morgane Aubineau<br/>
-            Email: univers_vertical@protonmail.com<br/>
+            Email: morgane.aubineau@protonmail.com<br/>
         </div>
 
         <div class="span2">
@@ -34,7 +35,6 @@ In this website, I provide information about my current work on both the neural 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/morgane-aubineau">GitHub</a></li>
           <li><a href="https://twitter.com/Ezra_Aurele">Twitter (@Ezra_Aurele)</a></li>
       </ul>
