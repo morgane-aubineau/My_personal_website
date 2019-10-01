@@ -6,6 +6,7 @@ keywords: Brain, Intellectual Giftedness, Autism Spectrum Conditions, Polymathy
 ---
 
 **Presentation**
+
 I am Morgane Aubineau, PhD in neurodevelopmental psychopathology. Welcome on my personal academic website.
 In this website, I provide information about my current work on both the neural architecture of high cognitive ability *(g)* individuals and autism spectrum conditions. There is also a link to visit the website of the Pearl (currently under construction).
 
