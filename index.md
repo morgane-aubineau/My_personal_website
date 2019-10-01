@@ -5,9 +5,9 @@ description: Morgane Aubineau is a PhD in neurodevelopmental psychopathology. Sh
 keywords: Brain, Intellectual Giftedness, Autism Spectrum Conditions, Polymathy
 ---
 
-<p>Presentation</p>
-<p>I am Morgane Aubineau, PhD in neurodevelopmental psychopathology. Welcome on my personal academic website.
-In this website, I provide information about my current work on both the neural architecture of high cognitive ability *(g)* individuals and autism spectrum conditions. There is also a link to visit the website of the Pearl (currently under construction).</p>
+**Presentation**
+I am Morgane Aubineau, PhD in neurodevelopmental psychopathology. Welcome on my personal academic website.
+In this website, I provide information about my current work on both the neural architecture of high cognitive ability *(g)* individuals and autism spectrum conditions. There is also a link to visit the website of the Pearl (currently under construction).
 
 [Read my curriculum vitae ![CV as pdf (English version)]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
