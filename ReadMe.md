@@ -1,5 +1,5 @@
 Welcome on my academic website!
-This website is build from the tutorial provided by Marisa Carlos. Thanks! (http://marisacarlos.com/pages/create-simple-academic-website)
+This website is built from the tutorial provided by Marisa Carlos. Thanks! (http://marisacarlos.com/pages/create-simple-academic-website)
 
 ---
 
