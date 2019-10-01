@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: research
 description: Morgane Aubineau's research
 ---
 **Published papers:**
