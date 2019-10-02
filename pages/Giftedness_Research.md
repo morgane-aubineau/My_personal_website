@@ -9,8 +9,9 @@ description: Giftedness research page
 <style>
 .formatabstract {
   color:grey;
-  font-size:8px;
+  font-size:10px;
   line-height:8px;
+  text-align: justify;
   }
 </style>
 
