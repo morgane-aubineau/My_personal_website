@@ -3,7 +3,7 @@ layout: page
 title: Autism Research
 description: Morgane Aubineau's research
 ---
-<ins>**Published papers:**</ins>
+<ins>**I. Published papers:**</ins>
 
 1- Aubineau, M., Blicharska, T. & Kalubi, J.-C. (2018). Perception de soi et des relations d'amitié des adolescents présentant un trouble du spectre de l'autisme intégrés au secondaire ordinaire. Regards d'élèves, en France et au Québec. *Neuropsychiatrie de l’Enfance et de l’Adolescence, 66*(2), 90-102.
 
@@ -19,9 +19,11 @@ description: Morgane Aubineau's research
 
 3- Aubineau, M. & Blicharska, T. (2019). High functioning autistic students speak about their experience of inclusion in mainstream secondary schools. *School Mental Health* (accepted)
 
+**Abstract.** _**Background.**_ An increasing number of autistic students attend mainstream secondary schools in both France and Quebec. The importance of considering their views on subjects that affect their daily life is now well established in education research. Still, little is known about how these students cope with specific aspects of inclusion. _**Objective.**_ This article explores the school experience of teenagers, considered as “the most expert, most capable of telling what it is like to be them” (Speraw, p.736), regarding their academic and social inclusion. Specifically, we aim to identify inhibitors and enablers to promoting successful educational experiences in a Francophone context. _**Methods.**_ 26 autistic students (aged 12 to 16), attending mainstream secondary schools in France (n=17) and Quebec (N=9), were interviewed. _**Results.**_ Managing sensory aspects, perceived immature behaviours from their peers and tiredness are identified as the main hardships of school life. Being included in an intensive academic program, being driven by a passion and having a friend inside the school are reported as important enablers. _**Perspectives.**_ For high functioning autistic students, transition into adult life constitutes one of the major challenges and has to be anticipated as soon as possible. Recommendations for practice are put forward to foster their empowerment and specify support needed to help them gain essential autonomy and practical skills necessary in the workplace and to be able to speak for themselves. 
+
 **Preprint:** Contact me by email to receive it.
 
-**Doctoral dissertation** 
+<ins>**II. Doctoral dissertation**</ins> 
 
 **Abstract.** _**Background.__** Despite international studies and governmental recommendations to involve directly youth with autistic spectrum disorders (ASD) in research, their own perspective is rarely taken into account in francophone research settings. Grounded in an ecological approach where participants are acknowledged as experts and knowledge co producers, our work aims at understanding how they cope with mainstream education in high schools. _**Methods.**_ 26 teenagers with ASD (13-17) and their parents (France: n=17; Quebec: n=9) took part in semi-structured in-depth interviews and completed questionnaires (Adolescents: Friendship Qualities Scale (FQS) and Self-Perception Profile for Adolescents (SPPA); Parents: Strengths and Difficulties Questionnaire (SDQ) and personal information sheet). _**Results**_ _Questionnaire analysis._ Cluster analysis identified 3 profiles for friendship representations, distinguished regarding companionship and help from the friend. Social acceptance, close friends and physical appearance differentiate self-perception into a 4-group typology (SPPA). The presence of a teaching assistant in class and the social skills training support are correlated positive with self and friendship representations. Satisfying parental representations are positively correlated with adolescent’ prosocial behaviors, full-time job for mothers and diagnosis of ASD in parents. _Thematic analysis._ Managing sensory aspects, perceived immature behaviors from their peers and tiredness are identified as the main obstacles for their inclusion. On the contrary, being included in an intensive academic program, being driven by a passion and having a friend appear to be important enablers. Their autistic identity is generally well lived, especially outside of high school. _**Prospects.**_ Transition to adult life will constitute one of the major challenges for youth with ASD. It has to be anticipated as soon as possible to allow them to gain autonomy and practical skills to be able to speak for themselves. 
 
@@ -30,6 +32,13 @@ description: Morgane Aubineau's research
 [Click here to read the full manuscript](https://hal.archives-ouvertes.fr/tel-01884074/document)
 
 **Note:** The appendix are available by emailing me at morgane.aubineau@protonmail.com
+
+<ins>**III. Article(s) in preparation**</ins>
+
+1- Aubineau, M. and Marfaing, M. (2019). Adolescents with autistic spectrum conditions in mainstream high schools: What do their parents need and say about inclusion and support services? A France – Quebec comparison. 
+
+**Abstract** To come
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
