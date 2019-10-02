@@ -15,8 +15,6 @@ In this website, I provide information and resources about my current work on 1-
 **ORCID ID:** 0000-0002-6053-2637 <br>
 **Research Gate page:** https://www.researchgate.net/profile/Morgane_Aubineau2
 
-[Read my curriculum vitae ![CV as pdf (English version)]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
-
 
 ---
 
