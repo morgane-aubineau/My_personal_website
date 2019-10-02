@@ -6,7 +6,16 @@ description: Giftedness research page
 <span style="color:SeaGreen"><ins>**Dissertation:**</ins></span><br>
 <span style="color:DarkViolet">**Aubineau, M.** (2018). Structural and functional neuromarkers of high general cognitive ability *(g)* (2018, University Pierre and Marie Curie, Paris VI)</span>
 
-<blockquote><span style="font-size:8px"; "line-height:8px><strong>Abstract.</strong><strong><em>Introduction.</em></strong> In today intelligence research, one question raises many challenges and ethical questions for the (near) future: what does a smart brain look like? The considerable improvements made in brain imaging open new and promising ways to examine this issue. <strong><em>Objective.</em></strong> This short essay aims at reviewing some of the most recent studies about the structural and functional correlates of human intelligence. <strong><em>Results.</em></strong> Since the publication of the parieto-frontal integration theory (P-FIT) of intelligence in 2007 by Jung and Haier, dozens of studies have been focused on the neural particularities of gifted individuals. An increased involvement of the bilateral frontoparietal network through preferential activation of the posterior parietal regions, an enhanced interhemispheric connectivity, increased activations in Brodmann areas 7 and 40 (superior and intraparietal cortices) and a greater integration in brain mechanisms appear to be important neuromarkers of higher human intelligence. <strong><em>Perspectives.</em></strong> This review illustrates the critical necessity to move from a group-based approach to an individual-based brain imaging research, in order to design interventions best fitted for each individual regarding their profile and the ability of interest to enhance, repair or improve.</span></blockquote>
+<style>
+.formatabstract {
+  color:grey;
+  font-size:8px;
+  line-height:8px;
+  }
+</style>
+
+
+<p class="formatabstract"> <strong>Abstract.</strong><strong><em>Introduction.</em></strong> In today intelligence research, one question raises many challenges and ethical questions for the (near) future: what does a smart brain look like? The considerable improvements made in brain imaging open new and promising ways to examine this issue. <strong><em>Objective.</em></strong> This short essay aims at reviewing some of the most recent studies about the structural and functional correlates of human intelligence. <strong><em>Results.</em></strong> Since the publication of the parieto-frontal integration theory (P-FIT) of intelligence in 2007 by Jung and Haier, dozens of studies have been focused on the neural particularities of gifted individuals. An increased involvement of the bilateral frontoparietal network through preferential activation of the posterior parietal regions, an enhanced interhemispheric connectivity, increased activations in Brodmann areas 7 and 40 (superior and intraparietal cortices) and a greater integration in brain mechanisms appear to be important neuromarkers of higher human intelligence. <strong><em>Perspectives.</em></strong> This review illustrates the critical necessity to move from a group-based approach to an individual-based brain imaging research, in order to design interventions best fitted for each individual regarding their profile and the ability of interest to enhance, repair or improve.</p>
 
 [Click here to read the dissertation]({{BASE_PATH}}/pages/working_papers/Mémoire_Morgane_Aubineau_final.pdf)
 
