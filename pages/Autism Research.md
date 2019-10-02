@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
+title: Autism Research
 description: Morgane Aubineau's research
 ---
-**Published papers:**
+<ins>**Published papers:**</ins>
 
 1- Aubineau, M., Blicharska, T. & Kalubi, J.-C. (2018). Perception de soi et des relations d'amitié des adolescents présentant un trouble du spectre de l'autisme intégrés au secondaire ordinaire. Regards d'élèves, en France et au Québec. *Neuropsychiatrie de l’Enfance et de l’Adolescence, 66*(2), 90-102.
 
