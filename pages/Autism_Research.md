@@ -3,13 +3,13 @@ layout: page
 title: Autism Research
 description: Morgane Aubineau's research
 ---
-<span style="color:SeaGreen"><ins>**I. Published papers:**</ins></span>
+<span style="color:Black"><ins>**I. Published papers:**</ins></span>
 
 <span style="color:DarkViolet">1- Aubineau, M., Blicharska, T. & Kalubi, J.-C. (2018). Perception de soi et des relations d'amitié des adolescents présentant un trouble du spectre de l'autisme intégrés au secondaire ordinaire. Regards d'élèves, en France et au Québec. *Neuropsychiatrie de l’Enfance et de l’Adolescence, 66*(2), 90-102.</span>
 
 <style>
 .formatabstract {
-  color:grey;
+  color:DimGrey;
   font-size:13px;
   line-height:13px;
   text-align: justify;
@@ -32,7 +32,7 @@ description: Morgane Aubineau's research
 
 **Preprint:** Contact me by email to receive it.
 
-<span style="color:SeaGreen"><ins>**II. Doctoral dissertation**</ins></span><br>
+<span style="color:Black"><ins>**II. Doctoral dissertation**</ins></span><br>
 <span style="color:DarkViolet">Aubineau, M. (2017). Vécu de l’inclusion scolaire au secondaire des élèves ayant un trouble du spectre de l’autisme: regards croisés des adolescents et de leurs parents, en France et au Québec (Doctoral dissertation).</span>
 
 <p class="formatabstract"><strong>Abstract.</strong> <strong><em>Background.</em></strong> Despite international studies and governmental recommendations to involve directly youth with autistic spectrum disorders (ASD) in research, their own perspective is rarely taken into account in francophone research settings. Grounded in an ecological approach where participants are acknowledged as experts and knowledge co producers, our work aims at understanding how they cope with mainstream education in high schools. <strong><em>Methods.</em></strong> 26 teenagers with ASD (13-17) and their parents (France: n=17; Quebec: n=9) took part in semi-structured in-depth interviews and completed questionnaires (Adolescents: Friendship Qualities Scale (FQS) and Self-Perception Profile for Adolescents (SPPA); Parents: Strengths and Difficulties Questionnaire (SDQ) and personal information sheet). <strong><em>Results.</em></strong> <em>Questionnaire analysis.</em> Cluster analysis identified 3 profiles for friendship representations, distinguished regarding companionship and help from the friend. Social acceptance, close friends and physical appearance differentiate self-perception into a 4-group typology (SPPA). The presence of a teaching assistant in class and the social skills training support are correlated positive with self and friendship representations. Satisfying parental representations are positively correlated with adolescent’ prosocial behaviors, full-time job for mothers and diagnosis of ASD in parents. <em>Thematic analysis.</em> Managing sensory aspects, perceived immature behaviors from their peers and tiredness are identified as the main obstacles for their inclusion. On the contrary, being included in an intensive academic program, being driven by a passion and having a friend appear to be important enablers. Their autistic identity is generally well lived, especially outside of high school. <strong><em>Prospects.</em></strong> Transition to adult life will constitute one of the major challenges for youth with ASD. It has to be anticipated as soon as possible to allow them to gain autonomy and practical skills to be able to speak for themselves.</p> 
@@ -43,7 +43,7 @@ description: Morgane Aubineau's research
 
 **Note:** The appendix are available by emailing me at morgane.aubineau@protonmail.com
 
-<span style="color:SeaGreen"><ins>**III. Article(s) in preparation**</ins></span>
+<span style="color:Black"><ins>**III. Article(s) in preparation**</ins></span>
 
 <span style="color:DarkViolet">1- Aubineau, M. and Marfaing, M. (2019). Adolescents with autistic spectrum conditions in mainstream high schools: What do their parents need and say about inclusion and support services? A France – Quebec comparison.</span> 
 
