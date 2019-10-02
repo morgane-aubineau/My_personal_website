@@ -3,12 +3,12 @@ layout: page
 title: Giftedness Research
 description: Giftedness research page
 ---
-<span style="color:SeaGreen"><ins>**Dissertation:**</ins></span><br>
+<span style="color:Black"><ins>**Dissertation:**</ins></span><br>
 <span style="color:DarkViolet">**Aubineau, M.** (2018). Structural and functional neuromarkers of high general cognitive ability *(g)* (2018, University Pierre and Marie Curie, Paris VI)</span>
 
 <style>
 .formatabstract {
-  color:grey;
+  color:DimGrey;
   font-size:13px;
   line-height:13px;
   text-align: justify;
@@ -20,12 +20,12 @@ description: Giftedness research page
 
 [Click here to read the dissertation]({{BASE_PATH}}/pages/working_papers/Mémoire_Morgane_Aubineau_final.pdf)
 
-<span style="color:SeaGreen"><ins>**In preparation:**</ins></span><br>
+<span style="color:Black"><ins>**In preparation:**</ins></span><br>
 <span style="color:DarkViolet">**Aubineau,M.** Uncovering the neural circuits of learning motivation in intellectually gifted individuals.</span>
 
 **Note:** The paper is currently in preparation. I am open to collaboration to publish the article and design experimental research to examine the relationship between motivation and learning in intellectually gifted children or teenagers. 
 
-<p class="formatabstract"><strong>Abstract.</strong> (submitted for the HBP conference in Pisa, January 2020)<br>
+<p class="formatabstract"><strong>Abstract.</strong> (submitted for the HBP conference in Pisa, January 2020)<br><br>
 <strong><em>Introduction.</em></strong> A century of research demonstrated that high general cognitive ability (g) is related to a broad set of positive social correlates, including greater educational achievements, more efficient job performance, better mental and physical health, or longevity [1]. Because of their relevance for the entire society, intellectually gifted individuals can be seen as potential “outstanding creators of modern culture” [2]. Hence, children with high abilities are potential high achievers. However, they might fail to realize their potential because of various obstacles, including unchallenging curriculum, one of the major factors causing underachievement  in gifted students and a great loss for our society.<br>
 Why gifted children are so eager to learn and question the world? What drives their insatiable curiosity that can lead to outstanding achievement and innovation, well beyond average?<br> 
 Despite the relevance of these questions, the neurological study of intellectual giftedness – i.e. understanding the neural architecture and processes that support such a level of performance – has received very limited attention.  Most neuroimaging studies on high intelligence focused on specific cognitive abilities, such as mathematical or memory abilities, usually with small samples [3]. Furthermore, almost no research has studied the relationship between the neural bases of intellectual giftedness and the neural circuit of motivation. Thus, this review will also provide new knowledge to help answering an exciting question from Ericsson and Pool: “Is deliberate practice producing changes in the brain structures that regulate motivation and enjoyment?” (p.192) [4].<br> 
