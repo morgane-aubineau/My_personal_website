@@ -26,19 +26,19 @@ description: Morgane Aubineau's research
 
 <style>
 .linkpdf {
-  color:SlateBlue;
+  color:Blue;
   margin-left:20px;
   }
 </style>
 
 <p class="formatabstract"> <strong>Abstract.</strong> <strong><em>Introduction.</em></strong> An increasing number of students diagnosed with autistic spectrum conditions (ASC) now attend mainstream high schools in both France and Quebec. However, little is known about how these teenagers cope with different aspects of inclusion. _**Objectives.**_ (1) Describe their experiences of self-perception and friendship relationships (2) Examine student social representation profiles as a function of their individual characteristics and environmental variables. <strong><em>Methods.</em></strong> 23 autistic students (age range 12–16 years) collaborated in the study. All of them attended high school full-time, in France(n = 15) and in Quebec (n = 8). Youths filled out a French version of the Self-Perception Profile for Adolescents questionnaire (SPPA; Harter, 1988),and the Friendship Qualities Scale (FQS; Bukowski et al., 1994). <strong><em>Results.</em></strong> Cluster analyses identified 4 modes of representation on the SPPA scales: “school performance depreciating” (n = 8), “school-work oriented” (n = 5), “low self-esteem” (n = 4) and “sociable” (n = 6).The 3 FQS clusters were labeled “socially isolated” (n = 8), “friendly engaged” (n = 7) and “insecure with conflict” (n = 8). Despite the identical mean score for “global self-worth” in both “friendly engaged” and “school-work oriented” groups, the “friendly engaged” group shows higher mean scores in almost all dimensions measured by SPPA. The results show a positive effect of social skills training on self-perception. Significant differences between profiles (for both SPPA and FQS) are found regarding (1) family sociodemographic data and (2) social and relationship sphere. <strong><em>Conclusion.</em></strong> This study underscores the importance of taking into account diversity in ASC adolescent representational profiles and social adaptation strategies. Results underscore the importance of understanding friendship relationships and their influence on a satisfying self-perception. The diversity of self-evaluations of friendships and self-concept suggest that self-assertion and social skills training focusing on high functioning autistic youth’s specific problems in high school mainstream programs might be an important pathway to successful inclusion and academic perseverance.</p>
 
-<p class="linkpdf">[Click here to read the article![ArticleNEA pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)](https://hal.archives-ouvertes.fr/hal-01496855/document)</p><br/>
+<p class="linkpdf">[Click here to read the article![ArticleNEA pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)](https://hal.archives-ouvertes.fr/hal-01496855/document)</p>
 
 <p class="titles">2- <strong>Aubineau, M.</strong> (2018). Guidelines for stakeholders involved in inclusion of ASD adolescents. Students with autistic spectrum disorders and their parents' representations concerning their inclusion in high school: a France - Quebec comparison. *Expertise national network in ASD (Quebec, Canada)*, February 2018.</p>
 
-<p class="linkpdf">[Click here to read the article in French![ArticleRecoEn]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)](https://hal.archives-ouvertes.fr/hal-02075426/document)</p><br>
-<p class="linkpdf">[Click here to read the article in English![ArticleRecoFr]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)](https://hal.archives-ouvertes.fr/hal-02075440/document)</p><br/>
+<p class="linkpdf">[Click here to read the article in French![ArticleRecoEn]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)](https://hal.archives-ouvertes.fr/hal-02075426/document)</p>
+<p class="linkpdf">[Click here to read the article in English![ArticleRecoFr]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)](https://hal.archives-ouvertes.fr/hal-02075440/document)</p>
 
 <p class="titles">3- <strong>Aubineau, M.</strong> & Blicharska, T. (2019). High functioning autistic students speak about their experience of inclusion in mainstream secondary schools. *School Mental Health* (accepted)</p>
 
@@ -59,7 +59,7 @@ description: Morgane Aubineau's research
 
 <p class="titles">1- <strong>Aubineau, M.</strong> and Marfaing, M. (2019). Adolescents with autistic spectrum conditions in mainstream high schools: What do their parents need and say about inclusion and support services? A France – Quebec comparison.</p> 
 
-**Abstract** To come
+<p class="formatabstract"><strong>Abstract.</strong> To come... </p>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
