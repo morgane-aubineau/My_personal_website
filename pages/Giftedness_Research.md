@@ -35,6 +35,4 @@ _**References**_<br>
 [6] D. Moher, A. Liberati, J. Tetzlaff, and D.G. Altman. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. Annals of internal medicine, 151(4): 264-269, 2009.<br>
 
 _**Table 1.**_ 
-<img src="Table1.png"
-     alt="Table 1."
-     style="float: left; margin-right: 10px;" />
+<img src="/pages/working_papers/Table1.png" alt="Table 1." height="446" width="722" />
