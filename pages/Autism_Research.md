@@ -5,7 +5,14 @@ description: Morgane Aubineau's research
 ---
 <span style="color:Black"><ins>**I. Published papers:**</ins></span>
 
-<span style="color:DarkViolet">1- Aubineau, M., Blicharska, T. & Kalubi, J.-C. (2018). Perception de soi et des relations d'amitié des adolescents présentant un trouble du spectre de l'autisme intégrés au secondaire ordinaire. Regards d'élèves, en France et au Québec. *Neuropsychiatrie de l’Enfance et de l’Adolescence, 66*(2), 90-102.</span>
+<style>
+  .titles {
+  color:DarkViolet;
+  text-align:justify;
+  }
+</style>
+
+<p class="titles">1- <strong>Aubineau, M.</strong>, Blicharska, T. & Kalubi, J.-C. (2018). Perception de soi et des relations d'amitié des adolescents présentant un trouble du spectre de l'autisme intégrés au secondaire ordinaire. Regards d'élèves, en France et au Québec. <em>Neuropsychiatrie de l’Enfance et de l’Adolescence, 66</em>(2), 90-102.</p>
 
 <style>
 .formatabstract {
@@ -21,20 +28,20 @@ description: Morgane Aubineau's research
 
 <span style="color:MidnightBlue">[Click here to read the article](https://hal.archives-ouvertes.fr/hal-01496855/document)</span>
 
-<span style="color:DarkViolet">2- Aubineau, M. (2018). Guidelines for stakeholders involved in inclusion of ASD adolescents. Students with autistic spectrum disorders and their parents' representations concerning their inclusion in high school: a France - Quebec comparison. *Expertise national network in ASD (Quebec, Canada)*, February 2018.</span>
+<p class="titles">2- <strong>Aubineau, M.</strong> (2018). Guidelines for stakeholders involved in inclusion of ASD adolescents. Students with autistic spectrum disorders and their parents' representations concerning their inclusion in high school: a France - Quebec comparison. *Expertise national network in ASD (Quebec, Canada)*, February 2018.</p>
 
 <span style="color:MidnightBlue">[Click here to read the article in French](https://hal.archives-ouvertes.fr/hal-02075426/document)</span>
 
 <span style="color:MidnightBlue">[Click here to read the article in English](https://hal.archives-ouvertes.fr/hal-02075440/document)</span>
 
-<span style="color:DarkViolet">3- Aubineau, M. & Blicharska, T. (2019). High functioning autistic students speak about their experience of inclusion in mainstream secondary schools. *School Mental Health* (accepted)</span>
+<p class="titles">3- <strong>Aubineau, M.</strong> & Blicharska, T. (2019). High functioning autistic students speak about their experience of inclusion in mainstream secondary schools. *School Mental Health* (accepted)</p>
 
 <p class="formatabstract"><strong>Abstract.</strong> <strong><em>Background.</em></strong> An increasing number of autistic students attend mainstream secondary schools in both France and Quebec. The importance of considering their views on subjects that affect their daily life is now well established in education research. Still, little is known about how these students cope with specific aspects of inclusion. <strong><em>Objective.</em></strong> This article explores the school experience of teenagers, considered as “the most expert, most capable of telling what it is like to be them” (Speraw, p.736), regarding their academic and social inclusion. Specifically, we aim to identify inhibitors and enablers to promoting successful educational experiences in a Francophone context. <strong><em>Methods.</em></strong> 26 autistic students (aged 12 to 16), attending mainstream secondary schools in France (n=17) and Quebec (N=9), were interviewed. <strong><em>Results.</em></strong> Managing sensory aspects, perceived immature behaviours from their peers and tiredness are identified as the main hardships of school life. Being included in an intensive academic program, being driven by a passion and having a friend inside the school are reported as important enablers. <strong><em>Perspectives.</em></strong> For high functioning autistic students, transition into adult life constitutes one of the major challenges and has to be anticipated as soon as possible. Recommendations for practice are put forward to foster their empowerment and specify support needed to help them gain essential autonomy and practical skills necessary in the workplace and to be able to speak for themselves.</p> 
 
 **Preprint:** Contact me by email to receive it.
 
 <span style="color:Black"><ins>**II. Doctoral dissertation**</ins></span><br>
-<span style="color:DarkViolet">Aubineau, M. (2017). Vécu de l’inclusion scolaire au secondaire des élèves ayant un trouble du spectre de l’autisme: regards croisés des adolescents et de leurs parents, en France et au Québec (Doctoral dissertation).</span>
+<p class="titles"><strong>Aubineau, M.</strong> (2017). Vécu de l’inclusion scolaire au secondaire des élèves ayant un trouble du spectre de l’autisme: regards croisés des adolescents et de leurs parents, en France et au Québec (Doctoral dissertation).</p>
 
 <p class="formatabstract"><strong>Abstract.</strong> <strong><em>Background.</em></strong> Despite international studies and governmental recommendations to involve directly youth with autistic spectrum disorders (ASD) in research, their own perspective is rarely taken into account in francophone research settings. Grounded in an ecological approach where participants are acknowledged as experts and knowledge co producers, our work aims at understanding how they cope with mainstream education in high schools. <strong><em>Methods.</em></strong> 26 teenagers with ASD (13-17) and their parents (France: n=17; Quebec: n=9) took part in semi-structured in-depth interviews and completed questionnaires (Adolescents: Friendship Qualities Scale (FQS) and Self-Perception Profile for Adolescents (SPPA); Parents: Strengths and Difficulties Questionnaire (SDQ) and personal information sheet). <strong><em>Results.</em></strong> <em>Questionnaire analysis.</em> Cluster analysis identified 3 profiles for friendship representations, distinguished regarding companionship and help from the friend. Social acceptance, close friends and physical appearance differentiate self-perception into a 4-group typology (SPPA). The presence of a teaching assistant in class and the social skills training support are correlated positive with self and friendship representations. Satisfying parental representations are positively correlated with adolescent’ prosocial behaviors, full-time job for mothers and diagnosis of ASD in parents. <em>Thematic analysis.</em> Managing sensory aspects, perceived immature behaviors from their peers and tiredness are identified as the main obstacles for their inclusion. On the contrary, being included in an intensive academic program, being driven by a passion and having a friend appear to be important enablers. Their autistic identity is generally well lived, especially outside of high school. <strong><em>Prospects.</em></strong> Transition to adult life will constitute one of the major challenges for youth with ASD. It has to be anticipated as soon as possible to allow them to gain autonomy and practical skills to be able to speak for themselves.</p> 
 
@@ -46,7 +53,7 @@ description: Morgane Aubineau's research
 
 <span style="color:Black"><ins>**III. Article(s) in preparation**</ins></span>
 
-<span style="color:DarkViolet">1- Aubineau, M. and Marfaing, M. (2019). Adolescents with autistic spectrum conditions in mainstream high schools: What do their parents need and say about inclusion and support services? A France – Quebec comparison.</span> 
+<p class="titles">1- <strong>Aubineau, M.</strong> and Marfaing, M. (2019). Adolescents with autistic spectrum conditions in mainstream high schools: What do their parents need and say about inclusion and support services? A France – Quebec comparison.</p> 
 
 **Abstract** To come
 
