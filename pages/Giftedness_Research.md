@@ -4,7 +4,13 @@ title: Giftedness Research
 description: Giftedness research page
 ---
 <span style="color:Black"><ins>**Dissertation:**</ins></span><br>
-<span style="color:DarkViolet">**Aubineau, M.** (2018). Structural and functional neuromarkers of high general cognitive ability *(g)* (2018, University Pierre and Marie Curie, Paris VI)</span>
+<style>
+.titles {
+  color:Darkviolet;
+  text-align:justify;
+  }
+</style>
+<p class="titles"><strong>Aubineau, M.</strong> (2018). Structural and functional neuromarkers of high general cognitive ability *(g)* (2018, University Pierre and Marie Curie, Paris VI)</p>
 
 <style>
 .formatabstract {
@@ -12,7 +18,7 @@ description: Giftedness research page
   font-size:13px;
   line-height:13px;
   text-align: justify;
-  margin-left:10px;
+  margin-left:20px;
   }
 </style>
 
@@ -22,7 +28,7 @@ description: Giftedness research page
 [Click here to read the dissertation]({{BASE_PATH}}/pages/working_papers/Mémoire_Morgane_Aubineau_final.pdf)
 
 <span style="color:Black"><ins>**In preparation:**</ins></span><br>
-<span style="color:DarkViolet">**Aubineau,M.** Uncovering the neural circuits of learning motivation in intellectually gifted individuals.</span>
+<p class="titles"><strong>Aubineau,M.</strong> Uncovering the neural circuits of learning motivation in intellectually gifted individuals.</p>
 
 **Note:** The paper is currently in preparation. I am open to collaboration to publish the article and design experimental research to examine the relationship between motivation and learning in intellectually gifted children or teenagers. 
 
