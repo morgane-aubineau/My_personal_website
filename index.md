@@ -34,7 +34,7 @@ In this website, I provide information and resources about my current work on 1-
             Email: morgane.aubineau@protonmail.com<br/>
         </div>
 
-        <div class="span12">
+        <div class="span2">
         <a href="../assets/UseIt.jpg">
             <img src="../assets/UseIt.jpg"
                   title="M. Aubineau's academic website" alt="Morgane Aubineau"/></a>
