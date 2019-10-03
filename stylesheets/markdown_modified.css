@@ -1,12 +1,12 @@
 /* Modifications to http://kevinburke.bitbucket.org/markdowncss/markdown.css */
 
 ul,ol {
-    margin: 0 0 0 35px;
+    margin: 0 0 0 45px;
 }
 
 a
 {
-  color: purple;
+  color: black;
   text-decoration: none;
   background-color: transparent;
 }
